@@ -33,3 +33,21 @@ RUN chown -R jenkins:jenkins /home/jenkins/.m2/ && \
 EXPOSE 22
 
 CMD ["/usr/sbin/sshd", "-D"]
+###########################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
